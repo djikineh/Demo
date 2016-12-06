@@ -19,4 +19,6 @@ read phone
 echo Phone:  $phone >> detail.out  #The phone number is added to detail.out
 echo
 echo
-echo  "Thank you $name. Your details are stored in \"detail.out\"" 
+echo  "Thank you $name. Your details are stored in \"detail.out\""
+
+#Adding comment to the file for unstaged example 
